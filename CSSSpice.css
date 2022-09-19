@@ -1,0 +1,485 @@
+body {
+     background-color:#36393f;
+    background: -webkit-linear-gradient(top, #797979 0%, #f8f8f8 100%);
+    background: linear-gradient(to bottom, #838383 0%, #a9a9a9 100%);
+}
+
+#hdpp-stats {
+    background-color: #333
+}
+
+#application_messaging ol {
+   display: none;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-id {
+    background-color: #3f51b5 !important;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-id.high-priority {
+    background-color: #b11f1a !important;
+}
+
+a.sui-bttn.ticket-resume-button {
+    background-image: linear-gradient(to bottom, #51722a, #339737);
+}
+
+a.sui-bttn.sui-dropdown-toggle.ticket-waiting-dropdown {
+    background-image: linear-gradient(to bottom, #51722a, #339737);
+}
+
+.sui-opt-in div.auto_complete ul {
+    color: black;
+}
+
+a.sui-bttn.ticket-close-button {
+    background-image: linear-gradient(to bottom, #2196f3, #3f51b5);
+}
+
+a.sui-bttn.sui-dropdown-toggle.ticket-close-dropdown {
+    background-image: linear-gradient(to bottom, #3f51b5, #3f51b5);
+}
+
+.sui-dropdown.sui-bttn-group.ticket-share-button {
+    display: none;
+}
+
+.modal {
+    background-color: #272727;
+}
+
+.select2-container-multi .select2-choices {
+    background-color: #000;
+    color: #fff;
+}
+
+.select2-container .select2-choice {
+    color: #ffffff;
+    background-color: #000;
+}
+
+.modal-header {
+    background-color: #000000;
+    border-bottom: 1px solid #ddd0;
+}
+
+a.sui-bttn:hover {
+    color: #ffffff !important;
+}
+
+a.sui-bttn {
+    color: #ffffff !important;
+    background-image: linear-gradient(to bottom, #ff5722, #ff5722);
+    border: 1px solid #000000;
+}
+
+.modal .footer-actions {
+    background-color: #000000;
+    border-top: 1px solid #ddd0;
+}
+
+.sui-opt-in .helpdesk-app .caret {
+    border-top-color: #fff;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-header {
+    background: #000000;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-header th {
+    border-left: 1px solid #a7a7a7;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .caret.asc {
+    border-bottom: 4px solid white;
+    border-bottom-color: white;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-header .property {
+    color: #d2d2d2;
+}
+
+.modal button.close {
+    color: white;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-ribbon .span2 span, .sui-opt-in .helpdesk-app .ticket-pane .ticket-ribbon .span2 a {
+    color: white;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-ribbon .sui-dropdown-menu, .sui-opt-in .helpdesk-app .ticket-pane .details-item .sui-dropdown-menu {
+    background-color: #141414;
+}
+
+.labor-popover .custom-time {
+    background-color: #141414;
+}
+
+.sui-opt-in label {
+    color: #ffffff;
+}
+
+.labor-popover ul li:hover, .labor-popover ul li.active {
+    background-color: #9e9e9e;
+}
+
+.sui-popover_content, .popover {
+    background-color: #141414;
+    -webkit-background-clip: padding-box;
+    -moz-background-clip: padding;
+    border: 1px solid #343434;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+    -webkit-box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgb(0 0 0 / 20%);
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-pane-content .sui-clickover .popover-footer {
+    background-color: #1b1b1b;
+    border-top: 1px solid #555555;
+}
+
+.sui-body-shadow {
+    -moz-box-shadow: 0px 0px 3px rgba(0, 0, 0, 0.00);
+    -webkit-box-shadow: 0px 0px 3px rgb(0 0 0 / 0%); 
+    box-shadow: 0px 0px 3px rgb(0 0 0 / 0%);
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .actions-wrapper .avatar-container .user-avatar {
+    background-color: #5e5e5e;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .meta a {
+    text-decoration: none;
+    color: #ff9800;
+}
+
+.message-panel-info {
+    background-color: #000000;
+    border-color: #B1CCD3;
+    color: #ffffff;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .loading-screen {
+    min-height: 400px;
+    background-color: #141414;
+}
+
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-body .ticket-table-wrapper tr.selected {
+    background-color: #a64040;
+}
+
+.sui-opt-in .helpdesk-app .custom pre {
+    color: white;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .activity-feed .activity-event .activity-creator {
+    color: #ff5656;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .pull-right.activity-filter {;
+    background: #141414;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .actions-wrapper .avatar-container .user-avatar {
+    background-color: #f6f6f6;
+}
+
+.sui-opt-in a {
+    color: #00aeff;
+}
+
+.sui-opt-in label.checkbox, .sui-opt-in label.radio {
+     background: #141414;
+}
+
+.sui-opt-in label.checkbox, .sui-opt-in label.radio {
+     color: white;
+}
+
+.sui-opt-in input, .sui-opt-in input.text, .sui-opt-in textarea, .sui-opt-in select, .sui-opt-in input.editor_field, .sui-opt-in input.file, .sui-opt-in a.fake_input, .sui-opt-in .uneditable-input {
+         background: #000;
+         color: #ffffff;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .activity-feed .activity-event .timeline-node {
+     background: #5e5e5e;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-body .table-footer {
+    background: #818181;
+}
+
+.nav-tabs > .active > a, .nav-tabs > .active > a:hover {
+     color: #ffffff;
+}
+
+.sui-opt-in .helpdesk-app .nav-tabs > li.active > a {
+         border-bottom: 2px solid #f58220
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .actions li.active {
+    color: #fff;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-body .ticket-table-wrapper {
+     background-color: #36393f;
+}
+
+.sui-opt-in {
+     color: white;
+}
+
+
+element.style {
+}
+.sui-opt-in .helpdesk-app .ticket-pane .byline {
+    font-size: 12px;
+    margin-bottom: 15px;
+}
+.sui-opt-in .helpdesk-app .ticket-pane .meta {
+        color: #ddd;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .show-more-item .bottom-mask {
+     background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0), #141414);
+     background-image: -webkit-linear-gradient(top, rgba(255, 255, 255, 0), #141414);
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(rgba(255, 255, 255, 0)), to(#141414));
+    background-color: rgba(20, 20, 20, 0.4);
+    background-image: -moz-linear-gradient(top, rgba(255, 255, 255, 0), #141414));
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-pane-content {
+    background: #141414; 
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .activity-feed .activity-event:before {
+     background: aquamarine;
+}
+
+.sui-opt-in h1, .sui-opt-in h2, .sui-opt-in h3, .sui-opt-in h4, .sui-opt-in h5, .sui-opt-in h6 {
+    color: #ff9800;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane 
+.ticket-ribbon {
+border-bottom-color: gray;
+border-top-color: gray;
+}
+
+.sui-body {
+    background-color: #141414;
+    border-radius: 15px;
+}
+
+.domestic-nav {
+    background-color: #36393f;
+    border-bottom-color: #36393f;
+    border-bottom-style: solid;
+    border-bottom-width: 1px;
+    height: 47px;
+    z-index: 1009;
+}
+
+.secondary-menus .domestic-menus_entry {
+    background-color: #36393f;
+}
+
+.domestic-nav_title {
+    color: #2080ad;
+    display: inline-block;
+    font-size: 18px;
+    margin-right: 75px;
+    padding-top: 14px;
+    position: static;
+    vertical-align: top;
+}
+
+.domestic-menus_entry > a {
+    color: #bfbfbf;
+    display: inline-block;
+    padding-bottom: 13px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-top: 16px;
+}
+
+.domestic-menus_entry.active > a {
+    border-bottom-color: #2080ad;
+    border-bottom-style: solid;
+    border-bottom-width: 3px;
+    padding-bottom: 10px;
+}
+
+.sui-opt-in .helpdesk-app .ticket-grid .table-body .table-footer .pager-container .pagination a.active {
+    background-color: gray;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .ticket-id {
+    background-color: gray;
+    background-image: linear-gradient(to bottom, rgba(255, 255, 255, 0.1) 0%, rgba(0, 0, 0, 0.1) 100%);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 2px;
+    border-top-left-radius: 0;
+    border-top-right-radius: 2px;
+    box-shadow: 3px 3px 3px rgba(0, 0, 0, 0.15);
+    color: #fff;
+    display: inline-block;
+    font-size: 11px;
+    height: 21px;
+    left: -4px;
+    line-height: 21px;
+    position: absolute;
+    text-align: center;
+    text-shadow: 0 1px 3px rgba(0, 0, 0, 0.5);
+    top: 24px;
+    width: 94px;
+}
+
+#reporting.index .report-grid tbody.report-list tr:nth-child(2n + 1) {
+    background: #111111;
+}
+
+#reporting.index .report-grid tbody.report-list tr:nth-child(2n) {
+    background: #000;
+}
+
+#reporting.index .report-grid h2.table-header {
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(black), to(#000000));
+    background-image: -webkit-linear-gradient(top, black, #000000);
+    background-image: -o-linear-gradient(top, white, #f8f8f8);
+    background-image: linear-gradient(to bottom, black, #000000);
+}
+
+#reporting.index .table-header .table-headers thead tr th {
+    background: black;
+}
+
+#reporting.run.table-header .table-headers thead tr th {
+    background: black;
+}
+
+#reporting.index .table-footer {
+background: linear-gradient(to bottom, #171717 0%, #171717 100%);
+}
+
+#reporting.index .table-body .table-condensed tr:hover, .table-body .table-condensed tr.hover {
+    background: #414141 !important;
+}
+
+#reporting.run .table-body .table-condensed tr:hover, .table-body .table-condensed tr.hover {
+    background: #414141 !important;
+}
+
+#reporting.run header.show-header .report-header {
+    background-color: #313131;
+}
+
+
+#reporting.run header.show-header {
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#545454), to(#545454));
+    background-image: -webkit-linear-gradient(top, #545454, #545454);
+    background-image: -o-linear-gradient(top, #545454, #545454);
+    background-image: linear-gradient(to bottom, #545454, #545454);
+}
+
+#reporting.run .table-header {
+    background-color: #000;
+}
+
+#reporting.run .item-grid .table-headers th[class*='header-'] {
+    background: #000;
+}
+
+#reporting.run .table-footer {
+    background: -webkit-linear-gradient(top, #272727 0%, #272727 100%);
+    background: linear-gradient(to bottom, #272727 0%, #272727 100%);
+}
+
+#reporting.run .item-grid .table-body table tr:nth-child(2n + 1) {
+    background: #212121;
+}
+
+#reporting.run .item-grid .table-body table tr:nth-child(2n) {
+    background: #000;
+}
+
+#reporting.run .item-grid .table-container {
+    background-color: #222;
+}
+
+#reporting.run .sui-opt-in h1, .sui-opt-in h2, .sui-opt-in h3, .sui-opt-in h4, .sui-opt-in h5, .sui-opt-in h6 {
+    color: #ffad35;
+}
+
+#reporting.form a.sui-bttn.active, a.sui-bttn:active {
+    background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#1f8fff), to(#1f8fff));
+    background-image: -webkit-linear-gradient(top, #1f8fff, #1f8fff);
+}
+
+#reporting.form a.sui-bttn:hover {
+    color: #ffffff !important;
+    background: #1f8fff;
+}
+
+#reporting.form .sui-dropdown.is-open .sui-dropdown_trigger.sui-bttn, .sui-dropdown.is-open .guest-user-navmenu a.join-button span.sui-dropdown_trigger, .guest-user-navmenu a.join-button .sui-dropdown.is-open span.sui-dropdown_trigger, .sui-dropdown.open .sui-dropdown-toggle.sui-bttn, .sui-dropdown.open .guest-user-navmenu a.join-button span.sui-dropdown-toggle, .guest-user-navmenu a.join-button .sui-dropdown.open span.sui-dropdown-toggle {
+    background: #1f8fff;
+}
+
+#reporting.run header.show-header .report-details span.meta-info {
+    color: #d5d5d5;
+}
+
+#reporting.form .report-form #report-fields .fields ul li.field {
+    background-color: #4b4b4b;
+}
+
+#reporting.form .report-form #report-rules .rules-section ul.rules .rule-inputs {
+    background: #303030;
+}
+
+#reporting.index .report-grid .column-settings .menu {
+    background-color: #323232;
+}
+
+#reporting.index .report-grid.reporting-admin {
+    max-width: 100%;
+}
+
+.recommended-reports {
+    margin-bottom: 40px;
+    display: none;
+}
+
+#reporting.index .report-grid .table th.column-name {
+    width: auto;
+    min-width: 223px;
+}
+
+#reporting.index .report-grid .table th.column-description {
+  width: auto;
+}
+
+#reporting.form .report-form #report-rules .rules-section .report-rule-value .rule-value-dual-calendar .rule-start-date, #reporting.form .report-form #report-rules .rules-section .report-rule-value .rule-value-dual-calendar .rule-end-date {
+    background: url(/assets/reporting/calendar.png) 14.38462em 0.30769em no-repeat black;
+}
+
+#reporting.index .report-grid .table th.column-type {
+  width: auto;
+}
+
+#reporting.index .report-grid .table th.column-schedule{
+  width: auto;
+}
+
+.global-nav *, .global-nav *::before, .global-nav *::after, .domestic-nav *, .domestic-nav *::before, .domestic-nav *::after, .sui-opt-in .global-nav *, .sui-opt-in .global-nav *::before, .sui-opt-in .global-nav *::after, .sui-opt-in .domestic-nav *, .sui-opt-in .domestic-nav *::before, .sui-opt-in .domestic-nav *::after {
+    box-sizing: border-box;
+    font-family: "Tahoma",Arial,sans-serif;
+}
+
+.sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .actions-area .comment-action.focused textarea {
+   resize:vertical;
+}
