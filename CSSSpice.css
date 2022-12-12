@@ -1,7 +1,7 @@
 body {
      background-color:#36393f;
     background: -webkit-linear-gradient(top, #797979 0%, #f8f8f8 100%);
-    background: linear-gradient(to bottom, #838383 0%, #a9a9a9 100%);
+    background: linear-gradient(to bottom, #838383 0%, #a9a9a9 100%);    background: linear-gradient(to bottom, #8b8b8b 0%, #000000 100%);
 }
 
 #hdpp-stats {
@@ -483,3 +483,17 @@ background: linear-gradient(to bottom, #171717 0%, #171717 100%);
 .sui-opt-in .helpdesk-app .ticket-pane .tab-sections .tab-pane.activity .actions-area .comment-action.focused textarea {
    resize:vertical;
 }
+
+body #content, body.theme-default #content {
+    background-color: #212121;
+}
+
+body .nav > li.active > a, body .nav > li.active > a:hover, body.theme-default .nav > li.active > a, body.theme-default .nav > li.active > a:hover {
+    background-color: #212121;
+}
+
+body #header, body.theme-default #header {
+    background-color: #000000;
+    background-image: linear-gradient(to bottom, #000000, #1e1e1e);
+}
+
